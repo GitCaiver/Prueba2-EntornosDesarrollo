@@ -1,2 +1,3 @@
 Contenido inicial de pruebaB
 Línea nueva añadida a pruebaB
+Línea añadida en la práctica de Git
